@@ -4,6 +4,7 @@ import Contact from "./components/landing/Contact";
 import Hero from "./components/landing/Hero";
 import Navbar from "./components/Navbar";
 import Footer from "./components/landing/footer";
+import Testimonials from "./components/landing/Testimonials";
 
 export default function Home() {
   return (
@@ -18,6 +19,9 @@ export default function Home() {
         </section>
         <section id="projects">
           <Blog />
+        </section>
+        <section id="testimonials">
+          <Testimonials />
         </section>
         <section id="contact">
           <Contact />

@@ -110,7 +110,7 @@ function Contact() {
                         Email
                       </p>
                       <p className="text-xs text-slate-600">
-                        contact@dstpweb.io
+                        contact@dstpweb.com
                       </p>
                     </div>
                   </div>
